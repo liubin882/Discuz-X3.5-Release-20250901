@@ -1,0 +1,1 @@
+<?PHP exit;?>	1757777150	<b>syntax error, unexpected '}', expecting end of file</b><br><b>PHP:</b>source/admincp/admincp_cloudaddons.php#break():0086	a0f938609bb6d2b90348a51dff5149b9	<b>User:</b> uid=1; IP=127.0.0.1; RIP:127.0.0.1 Request: /dz/admin.php?action=cloudaddons&amp;frame=no&amp;operation=plugins&amp;from=more
